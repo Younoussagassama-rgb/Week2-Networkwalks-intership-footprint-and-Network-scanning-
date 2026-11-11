@@ -112,7 +112,8 @@ A green node means the host is **up**. As more hosts are scanned, the graph grow
 
 Zenmap lets you export results and the topology view. The save dialog offers several formats:
 
-![Save dialog](screenshots/04-save-dialog.jpg)
+![Save dialog](screenshots/04-save-dialo
+![](Screenshot_20261110_214240_Video_Player.jpg)
 
 ```text
 Available export formats:
