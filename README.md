@@ -72,6 +72,7 @@ Command : nmap -sn 192.168.56.1
 ![Zenmap ping scan](screenshots/02-zenmap-ping-scan.jpg)
 
 Scan output:
+![](01-ipconfig.jpg)
 
 ```text
 Starting Nmap 7.91 ( https://nmap.org ) at 2026-11-09 14:49 +0100
